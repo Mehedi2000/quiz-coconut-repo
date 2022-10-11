@@ -1,6 +1,7 @@
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import './App.css';
 import Blog from './component/Blog/Blog';
+import ErrorPage from './component/ErrorPage/ErrorPage';
 import Home from './component/Home/Home';
 import Main from './component/Main/Main';
 import QuizDetails from './component/QuizDetails/QuizDetails';
@@ -12,6 +13,7 @@ function App() {
     {
       path: '/',
       element: <Main></Main>,
+      errorElement: <ErrorPage></ErrorPage>,
       children: [
         {
           path: '/',
