@@ -4,7 +4,7 @@ import { toast } from 'react-toastify';
 
 
 const Quiz = ({ singleQuestion }) => {
-    // console.log(singleQuestion)
+
     const { question, options, correctAnswer } = singleQuestion;
 
     const handleChange = event => {
