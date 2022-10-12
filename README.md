@@ -8,3 +8,20 @@
 <p> Topic details by topic id: https://openapi.programming-hero.com/api/quiz/${id}</p>
 <p>Example: https://openapi.programming-hero.com/api/quiz/1</p>
 
+<h2>Technologies Used</h2>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li> TAILWIND</li>
+<li>JAVASCRIPT</li>
+<li>REACTJS</li>
+</ul>
+
+<h2>Features</h2>
+<ul>
+<li>Responsive Design</li>
+<li>Desktop First Approach</li>
+<li>One-Way Data Binding</li>
+<li>Component Based Architecture</li>
+</ul>
+
