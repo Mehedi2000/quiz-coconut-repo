@@ -18,7 +18,7 @@ const Quiz = ({ singleQuestion }) => {
     }
 
     const handleClick = () => {
-
+        toast.info(`Correct Answer: ${correctAnswer}`, { autoClose: 1000 })
     }
 
     return (
