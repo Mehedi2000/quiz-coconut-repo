@@ -25,3 +25,10 @@
 <li>Component Based Architecture</li>
 </ul>
 
+<h2>Project Description</h2>
+<ul>
+<li>At first create home route.Here we use navbar in top in website.Then create cart for every quiz topic.</li>
+<li>Statistics route create a graphical representation of quiz data.</li>
+<li>Blog route create some important question answer for reactjs.And total website responsive for mobile,tablet and desktop devices.</li>
+</ul>
+
