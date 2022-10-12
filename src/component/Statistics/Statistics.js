@@ -6,7 +6,6 @@ import './Statistics.css'
 const Statistics = () => {
     const quizesTopic = useLoaderData();
     let data = quizesTopic.data;
-    console.log(data)
     return (
         <div>
             <h1 className='text-3xl font-bold mt-10'>Statistical Chart For All The Topics</h1>
